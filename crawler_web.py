@@ -4,7 +4,7 @@ import pandas as pd
 
 name = "xiaomi"
 
-driver = webdriver.Chrome("/home/grela/Downloads/chromedriver_linux64/chromedriver")
+driver = webdriver.Chrome("/usr/local/bin/chromedriver")
 images = []
 products = []  # List to store name of the product
 prices = []  # List to store price of the product
