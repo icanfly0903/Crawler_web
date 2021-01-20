@@ -1,3 +1,8 @@
+'''
+#1: Web Scraping TikTok & Clicking buttons
+'''
+
+
 from selenium import webdriver
 import time
 
